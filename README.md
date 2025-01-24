@@ -13,5 +13,3 @@ I'm passionate about mathematics, computer science, and exploring the fascinatin
 
 ### 😄 Pronouns:
 - He/Him/His 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobdong01&theme=tokyonight)
