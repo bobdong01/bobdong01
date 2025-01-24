@@ -14,5 +14,5 @@ I'm passionate about mathematics, computer science, and exploring the fascinatin
 ### 😄 Pronouns:
 - He/Him/His
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinhonglin-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="jinhonglin-ryan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobdong01&label=Profile%20views&color=0e75b6&style=flat" alt="bobdong01" /> </p>
 
