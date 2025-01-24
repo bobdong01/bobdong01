@@ -1,4 +1,8 @@
 ## Hi there 👋 I'm Bob!
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Waving Hand" width="50" />
+</p>
+
 
 ✨ Welcome to my GitHub profile! ✨  
 I'm passionate about mathematics, computer science, and exploring the fascinating intersections of modern geometry and optimization.  
