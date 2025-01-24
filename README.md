@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Bob!
+<h1 align="center">Hi there 👋 I'm Bob!</h1>
 
 ✨ Welcome to my GitHub profile! ✨  
 I'm passionate about mathematics, computer science, and exploring the fascinating intersections of modern geometry and computation.  
@@ -12,4 +12,7 @@ I'm passionate about mathematics, computer science, and exploring the fascinatin
 - LinkedIn: [Visit my LinkedIn](https://www.linkedin.com/in/bob-dong-990236227/)
 
 ### 😄 Pronouns:
-- He/Him/His 
+- He/Him/His
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinhonglin-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="jinhonglin-ryan" /> </p>
+
