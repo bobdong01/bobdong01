@@ -1,34 +1,12 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## Hi there 👋 I'm Bob!
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ✨ Welcome to my GitHub profile! ✨  
-I'm passionate about mathematics, computer science, and exploring the fascinating intersections of modern geometry and optimization.  
+I'm passionate about mathematics, computer science, and exploring the fascinating intersections of modern geometry and computation.  
 
 ### 🔭 What I'm Working On:
-- Pursuing my academic goals with a focus on **modern geometry**.  
+- Pursuing my academic goals with a focus on **geometry**.  
 - Engaging in projects related to **cryptology**, **stochastic processes**, and **algorithms**.  
 - Contributing to **open-source** projects that align with my interests in mathematics and computational research.
-
-### 🌱 What I'm Learning:
-- Deep diving into **NLP** (Natural Language Processing) from a linguistic perspective.  
-- Enhancing my skills in **optimization**, **information retrieval**, and **cryptology** as part of my current coursework.  
-- Preparing for a **PhD in modern geometry**.  
-
-### 👯 Let's Collaborate!
-I'm open to collaborating on:  
-- **Mathematics** and **geometry** research.  
-- **Algorithm design** and **optimization** problems.  
-- Projects involving the intersection of **computer science** and **linguistics**.  
-
-### 🤔 I’m Looking for Help With:
-- Expanding my understanding of cutting-edge techniques in **NLP**.  
-- Building connections in the **geometry research community**.  
-
-### 💬 Ask Me About:
-- Mathematical concepts and applications in computer science.  
-- How to juggle coursework in optimization, algorithms, and cryptology.  
 
 ### 📫 How to Reach Me: 
 - LinkedIn: [Visit my LinkedIn](https://www.linkedin.com/in/bob-dong-990236227/)
@@ -36,5 +14,4 @@ I'm open to collaborating on:
 ### 😄 Pronouns:
 - He/Him/His 
 
-### ⚡ Fun Fact:
-When I'm not solving equations or writing code, I enjoy exploring the world of **theater**, having fond memories of performing in and supporting productions like *Mean Girls*! 🎭  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobdong01&theme=tokyonight)
