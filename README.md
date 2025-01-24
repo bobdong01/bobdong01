@@ -1,9 +1,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## Hi there 👋 I'm Bob!
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Waving Hand" width="100" />
-</p>
-
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ✨ Welcome to my GitHub profile! ✨  
 I'm passionate about mathematics, computer science, and exploring the fascinating intersections of modern geometry and optimization.  
