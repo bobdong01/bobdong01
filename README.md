@@ -28,7 +28,7 @@ I'm open to collaborating on:
 - How to juggle coursework in optimization, algorithms, and cryptology.  
 
 ### 📫 How to Reach Me: 
-- LinkedIn: [Your LinkedIn Profile]   
+- LinkedIn: [Visit my LinkedIn](https://www.linkedin.com/in/bob-dong-990236227/)
 
 ### 😄 Pronouns:
 - He/Him/His 
