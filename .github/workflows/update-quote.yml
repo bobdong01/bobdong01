@@ -1,7 +1,6 @@
 name: Update Random Quote
 
 on:
-  # daily at midnight UTC, plus manual trigger
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -10,30 +9,28 @@ jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
-      # 1) check out the repo (with write access back)
       - uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      # 2) install jq (if not already available)
-      - name: Ensure jq is installed
-        run: sudo apt-get update && sudo apt-get install -y jq
+      # install both jq and the CA certificates bundle
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq ca-certificates
 
-      # 3) fetch a random quote
       - name: Fetch quote from Quotable
         id: get_quote
         run: |
           DATA=$(curl -s https://api.quotable.io/random)
           CONTENT=$(echo "$DATA" | jq -r '.content')
-          AUTHOR=$(echo "$DATA"  | jq -r '.author')
+          AUTHOR=$(echo "$DATA" | jq -r '.author')
           echo "QUOTE=“$CONTENT” — $AUTHOR" >> $GITHUB_ENV
 
-      # 4) replace the placeholder in README.md
       - name: Inject quote into README
         run: |
           sed -i "s@> “Loading quote…” — \*Author\*@> $QUOTE@" README.md
 
-      # 5) commit & push back if changed
       - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
@@ -41,3 +38,4 @@ jobs:
           git add README.md
           git diff --quiet || git commit -m "chore: update random quote"
           git push
+
