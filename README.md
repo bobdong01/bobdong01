@@ -1,12 +1,15 @@
-<h1 align="center">Hi there 👋 I'm Bob!</h1>
+# Hey there :wave:
 
-### 😄 Pronouns:
-- He/Him/His
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobdong01&label=Profile%20views&color=0e75b6&style=flat" alt="bobdong01" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bob-dong-990236227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bob Dong" height="30" width="40" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
+## About me
+
+I am a student at Johns Hopkins majoring in Computer Science and Applied Math. Currently I am working on some machine learning projects. Feel free to reach out to me! I am happy to chat!
+
+## Get in touch :coffee:
+- [LinkedIn](https://www.linkedin.com/in/bob-dong-990236227/)
