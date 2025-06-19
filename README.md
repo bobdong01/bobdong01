@@ -1,26 +1,13 @@
-# Hey there :wave:
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<!-- Random Quote -->
-<div id="random-quote" align="center" style="font-style: italic; margin: 1em 0;"></div>
+<!-- RANDOM_QUOTE -->
+> “Loading quote…” — *Author*
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bobdong01/count.svg" />
 </p>
 
-<!-- Fetch and insert a random quote -->
-<script>
-  fetch('https://api.quotable.io/random')
-    .then(res => res.json())
-    .then(({ content, author }) => {
-      document.getElementById('random-quote').innerText = `“${content}” — ${author}`;
-    })
-    .catch(() => {
-      document.getElementById('random-quote').innerText = "“Stay curious, stay learning.” — Unknown";
-    });
-</script>
 
 
 ## About me
